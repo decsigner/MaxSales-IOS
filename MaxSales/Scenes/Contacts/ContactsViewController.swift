@@ -11,7 +11,7 @@ import SwiftUI
 
 final class ContatcsViewController: UIViewController {
     private lazy var sacView: CardView = {
-        let configuration = CardViewConfiguration(title: "SAC", info: "08005911946", type: .phoneNumber)
+        let configuration = CardViewConfiguration(title: "SAC", info: "0800 191 2486", type: .phoneNumber)
         let card = CardView(configuration: configuration)
         return card
     }()

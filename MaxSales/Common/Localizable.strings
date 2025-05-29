@@ -99,6 +99,9 @@ acidente pessoal, ocorrido durante a vigência do Seguro.</body>";
 "assistenciaPetText" = "
 <body style='font-size: 16px; font-family: -apple-system, sans-serif'>
 Tratamento VIP para seu animalzinho, com esta assistência seu Pet terá um tratamento exclusivo, com direito a transporte emergencial, assistência emergencial, consultas, envio de ração e muito mais.
+</br></br>  
+<b>Acionamento de Assistências:</b>
+    <p>O serviço de assistências 24h deverá ser acionado através do telefone abaixo.</p>
 </body>";
 
 "medicamentoGratuito" = "
@@ -134,10 +137,11 @@ Tratamento VIP para seu animalzinho, com esta assistência seu Pet terá um trat
 
 <div>
     <p><b>Evento:</b> É a necessidade de compra de medicamentos.</p>
-</div>
-
-<div>
     <p><b>Assistência:</b> É o serviço que será prestado obedecendo-se as condições gerais deste regulamento.</p>
+</div>
+<div>
+<b>Acionamento de Assistências</b>
+O serviço de assistências 24h deverá ser acionado através do telefone abaixo
 </div>
 </body>";
 

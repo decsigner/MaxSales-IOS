@@ -149,6 +149,8 @@ extension HomeView: UICollectionViewDelegate {
     func collectionView(_ collectionView: UICollectionView, didSelectItemAt indexPath: IndexPath) {
         let selected = dataSource[indexPath.row]
         
+        print("Item selecionado: \(selected)")
+        
         if !selected.available {
             delegate?.showWarningSnackBar()
             return

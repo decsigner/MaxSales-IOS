@@ -68,7 +68,7 @@ enum DetailFactory: String {
                 whatsappLabel: NSLocalizedString("capitais", comment: ""),
                 whastappContent: "(11) 3003-6773",
                 phoneLabel: NSLocalizedString("outrasLocalidades", comment: ""),
-                phoneContent: "0800 191 2486"
+                phoneContent: "0800 709 8059"
             )
             return DetailViewController(model: model)
         case .nutricional:
@@ -79,7 +79,7 @@ enum DetailFactory: String {
                 whatsappLabel: NSLocalizedString("capitais", comment: ""),
                 whastappContent: "(11) 3003-6773",
                 phoneLabel: NSLocalizedString("outrasLocalidades", comment: ""),
-                phoneContent: "0800 191 2486"
+                phoneContent: "0800 709 8059"
             )
             return DetailViewController(model: model)
         case .checkup:
@@ -90,7 +90,7 @@ enum DetailFactory: String {
                 whatsappLabel: NSLocalizedString("capitais", comment: ""),
                 whastappContent: "(11) 3003-6773",
                 phoneLabel: NSLocalizedString("outrasLocalidades", comment: ""),
-                phoneContent: "0800 191 2486"
+                phoneContent: "0800 709 8059"
             )
             return DetailViewController(model: model)
         case .sorteio:
@@ -164,10 +164,10 @@ enum DetailFactory: String {
                 title: "Assistência PET",
                 image: "previsul",
                 text: NSLocalizedString("assistenciaPetText", comment: ""),
-                whatsappLabel: NSLocalizedString("capitais", comment: ""),
-                whastappContent: "(11) 3003-6773",
+                whatsappLabel: "WhatsApp",
+                whastappContent: "(51) 99528 0140",
                 phoneLabel: NSLocalizedString("outrasLocalidades", comment: ""),
-                phoneContent: "0800 709 8059"
+                phoneContent: "0800 880 1900"
             )
             return DetailViewController(model: model)
         case .medicamentoGratis:
@@ -175,10 +175,10 @@ enum DetailFactory: String {
                 title: "Assistência Medicamentos",
                 image: "sabemi",
                 text:  NSLocalizedString("medicamentoGratuito", comment: ""),
-                whatsappLabel: "",
-                whastappContent: "",
+                whatsappLabel: "WhatsApp",
+                whastappContent: "(51) 99528 0140",
                 phoneLabel: NSLocalizedString("outrasLocalidades", comment: ""),
-                phoneContent: "0800 721 3874")
+                phoneContent: "0800 880 1900")
             
             return DetailViewController(model: model)
         case .telaQuebrada:

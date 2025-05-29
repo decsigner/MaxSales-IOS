@@ -140,7 +140,7 @@ private extension DetailViewController {
     }
     
     func showWhatsAppPage() {
-        guard let appURL = URL(string: "https://api.whatsapp.com/send?phone=55\(clearWhatsApp())") else { return }
+        guard let appURL = URL(string: "https://api.whatsapp.com/send?phone=55555\(clearWhatsApp())") else { return }
         UIApplication.shared.open(appURL)
     }
 }

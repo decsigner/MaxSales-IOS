@@ -112,7 +112,7 @@
 /* Begin PBXFileReference section */
 		06B8BEC69BDDE7765E426D7855F7A978 /* ConstraintViewDSL.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ConstraintViewDSL.swift; path = Source/ConstraintViewDSL.swift; sourceTree = "<group>"; };
 		0D37A80E3B549D7F21B27F8A4F6765FD /* MaskedTextFieldDelegate.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MaskedTextFieldDelegate.swift; path = Source/InputMask/InputMask/Classes/View/MaskedTextFieldDelegate.swift; sourceTree = "<group>"; };
-		115CFC8098F41119E6CB6D7EADEBA5CE /* SFFontFeatures */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SFFontFeatures; path = SFFontFeatures.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		115CFC8098F41119E6CB6D7EADEBA5CE /* SFFontFeatures.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SFFontFeatures.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		180BF7648447397A8B3EAAE6D8BBC700 /* ConstraintLayoutGuideDSL.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ConstraintLayoutGuideDSL.swift; path = Source/ConstraintLayoutGuideDSL.swift; sourceTree = "<group>"; };
 		1A23C0100164360D24091E61C0AA2A67 /* ConstraintInsetTarget.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ConstraintInsetTarget.swift; path = Source/ConstraintInsetTarget.swift; sourceTree = "<group>"; };
 		1B27CB0D3D7B5D6B473CC9A7974C4BEE /* SFFontFeatures.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SFFontFeatures.release.xcconfig; sourceTree = "<group>"; };
@@ -154,16 +154,16 @@
 		80084E726E12BBB1B889F2D5A81AECAB /* InputMask.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = InputMask.debug.xcconfig; sourceTree = "<group>"; };
 		807FEA5EB4B6E9CFBB54EDA380C20E8D /* ConstraintLayoutSupport.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ConstraintLayoutSupport.swift; path = Source/ConstraintLayoutSupport.swift; sourceTree = "<group>"; };
 		8B066087C503BB55E65B4F72DFEEC9EE /* InputMask.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = InputMask.h; path = Source/InputMask/InputMask/Classes/InputMask.h; sourceTree = "<group>"; };
-		8F0B3BAF4F4B4834205356A629E686DA /* Pods-MaxSales */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-MaxSales"; path = Pods_MaxSales.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		8F0B3BAF4F4B4834205356A629E686DA /* Pods_MaxSales.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MaxSales.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		914EFCC6E352BD32CFCDF05AD1B3AE1E /* ConstraintMaker.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ConstraintMaker.swift; path = Source/ConstraintMaker.swift; sourceTree = "<group>"; };
 		916C99DCA1C0E2354273038B5BC9D8C9 /* Pods-MaxSales.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-MaxSales.modulemap"; sourceTree = "<group>"; };
 		97751E6D2755631496DFFFAF5D80D259 /* ConstraintPriority.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ConstraintPriority.swift; path = Source/ConstraintPriority.swift; sourceTree = "<group>"; };
-		979486118B3E90C08386079D57962701 /* SnapKit */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SnapKit; path = SnapKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		979486118B3E90C08386079D57962701 /* SnapKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SnapKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9A9313E4A5A8787BEF614B500CF20DB6 /* ValueState.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ValueState.swift; path = Source/InputMask/InputMask/Classes/Model/State/ValueState.swift; sourceTree = "<group>"; };
 		9B4B9F6145427D393E829345D0953DCE /* ConstraintLayoutGuide+Extensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "ConstraintLayoutGuide+Extensions.swift"; path = "Source/ConstraintLayoutGuide+Extensions.swift"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9E09C6DED7EAF6BBBE8C31EA1F2706E7 /* String.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = String.swift; path = Source/InputMask/InputMask/Classes/Helper/String.swift; sourceTree = "<group>"; };
-		A0ECE54B0F0AE01FF2391FFD7703F584 /* InputMask */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = InputMask; path = InputMask.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		A0ECE54B0F0AE01FF2391FFD7703F584 /* InputMask.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = InputMask.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A242CE56C826616AD976BF97539458CD /* ConstraintDirectionalInsetTarget.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ConstraintDirectionalInsetTarget.swift; path = Source/ConstraintDirectionalInsetTarget.swift; sourceTree = "<group>"; };
 		A3F961C26534C575F0468E3132A152C8 /* ConstraintDSL.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ConstraintDSL.swift; path = Source/ConstraintDSL.swift; sourceTree = "<group>"; };
 		A964DAC9841118EA3501DE42EB4C38DB /* ConstraintMakerExtendable.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ConstraintMakerExtendable.swift; path = Source/ConstraintMakerExtendable.swift; sourceTree = "<group>"; };
@@ -298,7 +298,6 @@
 				D44F1B668DCBF66875F39B46F3ADF516 /* UILayoutSupport+Extensions.swift */,
 				9E0E00295DB9400B298D73375A6D38FD /* Support Files */,
 			);
-			name = SnapKit;
 			path = SnapKit;
 			sourceTree = "<group>";
 		};
@@ -383,7 +382,6 @@
 				5DE6F851A75D8794E18530CCC7F7E084 /* SFFontFeatures.m */,
 				60FB491FC41315381871DC90D3D9F39F /* Support Files */,
 			);
-			name = SFFontFeatures;
 			path = SFFontFeatures;
 			sourceTree = "<group>";
 		};
@@ -417,17 +415,16 @@
 				9A9313E4A5A8787BEF614B500CF20DB6 /* ValueState.swift */,
 				3AE8A4A4CFFCC7770B57960659A8F30A /* Support Files */,
 			);
-			name = InputMask;
 			path = InputMask;
 			sourceTree = "<group>";
 		};
 		8C7AA07420C8FFE1FDE42E71ED6D59A8 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A0ECE54B0F0AE01FF2391FFD7703F584 /* InputMask */,
-				8F0B3BAF4F4B4834205356A629E686DA /* Pods-MaxSales */,
-				115CFC8098F41119E6CB6D7EADEBA5CE /* SFFontFeatures */,
-				979486118B3E90C08386079D57962701 /* SnapKit */,
+				A0ECE54B0F0AE01FF2391FFD7703F584 /* InputMask.framework */,
+				8F0B3BAF4F4B4834205356A629E686DA /* Pods_MaxSales.framework */,
+				115CFC8098F41119E6CB6D7EADEBA5CE /* SFFontFeatures.framework */,
+				979486118B3E90C08386079D57962701 /* SnapKit.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -513,7 +510,7 @@
 			);
 			name = SnapKit;
 			productName = SnapKit;
-			productReference = 979486118B3E90C08386079D57962701 /* SnapKit */;
+			productReference = 979486118B3E90C08386079D57962701 /* SnapKit.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		9414A666F809F2ADC7D7A172092DE154 /* Pods-MaxSales */ = {
@@ -534,7 +531,7 @@
 			);
 			name = "Pods-MaxSales";
 			productName = Pods_MaxSales;
-			productReference = 8F0B3BAF4F4B4834205356A629E686DA /* Pods-MaxSales */;
+			productReference = 8F0B3BAF4F4B4834205356A629E686DA /* Pods_MaxSales.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		943EB8EB62641F22D49DC5016CA53EE9 /* InputMask */ = {
@@ -552,7 +549,7 @@
 			);
 			name = InputMask;
 			productName = InputMask;
-			productReference = A0ECE54B0F0AE01FF2391FFD7703F584 /* InputMask */;
+			productReference = A0ECE54B0F0AE01FF2391FFD7703F584 /* InputMask.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		B10F18ADAC214B1A8E894527F70C089A /* SFFontFeatures */ = {
@@ -570,7 +567,7 @@
 			);
 			name = SFFontFeatures;
 			productName = SFFontFeatures;
-			productReference = 115CFC8098F41119E6CB6D7EADEBA5CE /* SFFontFeatures */;
+			productReference = 115CFC8098F41119E6CB6D7EADEBA5CE /* SFFontFeatures.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -913,6 +910,9 @@
 				PRODUCT_NAME = InputMask;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = YES;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -985,6 +985,9 @@
 				PRODUCT_NAME = InputMask;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = YES;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
