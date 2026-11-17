@@ -30,7 +30,7 @@ enum DetailFactory: String {
         case .consulta:
             let model = DetailBinding(
                 title: "Consultas",
-                image: "produtoSaude",
+                image: "logoMaxSales",
                 text: NSLocalizedString("consultaText", comment: ""),
                 whatsappLabel: NSLocalizedString("capitais", comment: ""),
                 whastappContent: "(11) 93946-6858",
@@ -41,7 +41,7 @@ enum DetailFactory: String {
         case .exames:
             let model = DetailBinding(
                 title: "Exames",
-                image: "produtoSaude",
+                image: "logoMaxSales",
                 text: NSLocalizedString("examesText", comment: ""),
                 whatsappLabel: NSLocalizedString("capitais", comment: ""),
                 whastappContent: "(11) 93946-6858",
@@ -52,7 +52,7 @@ enum DetailFactory: String {
         case .dentista:
             let model = DetailBinding(
                 title: "Dentista",
-                image: "produtoSaude",
+                image: "logoMaxSales",
                 text: NSLocalizedString("dentistaText", comment: ""),
                 whatsappLabel: NSLocalizedString("capitais", comment: ""),
                 whastappContent: "(11) 93946-6858",
@@ -173,7 +173,7 @@ enum DetailFactory: String {
         case .medicamentoGratis:
             let model = DetailBinding(
                 title: "Assistência Medicamentos",
-                image: "sabemi",
+                image: "previsul",
                 text:  NSLocalizedString("medicamentoGratuito", comment: ""),
                 whatsappLabel: "WhatsApp",
                 whastappContent: "(51) 99528 0140",
@@ -184,7 +184,7 @@ enum DetailFactory: String {
         case .telaQuebrada:
             let model = DetailBinding(
                 title: "Quebra de tela",
-                image: "sabemi",
+                image: "previsul",
                 text:   NSLocalizedString("telaQuebrada", comment: ""),
                 whatsappLabel: "",
                 whastappContent: "",

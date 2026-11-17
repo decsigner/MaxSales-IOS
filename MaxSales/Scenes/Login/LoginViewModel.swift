@@ -85,7 +85,7 @@ final class LoginViewModel: LoginViewModeling {
     }
     
     func contactSac() {
-        guard let appURL = URL(string: "https://api.whatsapp.com/send?phone=5511939466858") else { return }
+        guard let appURL = URL(string: "https://api.whatsapp.com/send?phone=5511975423721") else { return }
         UIApplication.shared.open(appURL)
     }
     
