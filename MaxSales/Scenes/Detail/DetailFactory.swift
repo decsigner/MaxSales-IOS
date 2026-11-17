@@ -33,7 +33,7 @@ enum DetailFactory: String {
                 image: "produtoSaude",
                 text: NSLocalizedString("consultaText", comment: ""),
                 whatsappLabel: NSLocalizedString("capitais", comment: ""),
-                whastappContent: "(11) 97292-2649",
+                whastappContent: "(11) 93946-6858",
                 phoneLabel: NSLocalizedString("outrasLocalidades", comment: ""),
                 phoneContent: "0800 191 2486"
             )
@@ -44,7 +44,7 @@ enum DetailFactory: String {
                 image: "produtoSaude",
                 text: NSLocalizedString("examesText", comment: ""),
                 whatsappLabel: NSLocalizedString("capitais", comment: ""),
-                whastappContent: "(11) 97292-2649",
+                whastappContent: "(11) 93946-6858",
                 phoneLabel: NSLocalizedString("outrasLocalidades", comment: ""),
                 phoneContent: "0800 191 2486"
             )
@@ -55,7 +55,7 @@ enum DetailFactory: String {
                 image: "produtoSaude",
                 text: NSLocalizedString("dentistaText", comment: ""),
                 whatsappLabel: NSLocalizedString("capitais", comment: ""),
-                whastappContent: "(11) 97292-2649",
+                whastappContent: "(11) 93946-6858",
                 phoneLabel: NSLocalizedString("outrasLocalidades", comment: ""),
                 phoneContent: "0800 191 2486"
             )

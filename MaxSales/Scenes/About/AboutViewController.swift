@@ -43,7 +43,7 @@ final class AboutViewController: UIViewController {
     
     private lazy var aboutPlansContentLabel: UILabel = {
         let label = UILabel()
-        label.text = "Criamos 3 planos sob medida para você e sua família. \n Mas se preferir podemos personalizar os serviços conforme suas necessidades. Visamos atender variados públicos, promovendo acessibilidade à saúde, educação, cultura e segurança com mais facilidade através do nosso aplicativo de benefícios. Otimizando o seu tempo, oferecendo rapidez e economia sem sair de casa."
+        label.text = "Criamos 5 planos sob medida para você e sua família. \n Mas se preferir podemos personalizar os serviços conforme suas necessidades. Visamos atender variados públicos, promovendo acessibilidade à saúde, educação, cultura e segurança com mais facilidade através do nosso aplicativo de benefícios. Otimizando o seu tempo, oferecendo rapidez e economia sem sair de casa."
         label.textAlignment = .center
         label.numberOfLines = 40
         label.textColor = UIColor(red: 0.30, green: 0.30, blue: 0.30, alpha: 1.00)
